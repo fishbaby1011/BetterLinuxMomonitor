@@ -1,5 +1,5 @@
 
-# System Monitor with Discord Notifications
+# BetterLinuxMomonitor
 
 這是一個用於監控系統資源的 Bash 腳本，當 CPU、記憶體、硬碟或網路流量超過預設的閾值時，會發送通知到 Discord。
 
