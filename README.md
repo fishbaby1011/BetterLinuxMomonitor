@@ -15,7 +15,7 @@
 
 1. 克隆這個倉庫到你的本地環境：
     ```bash
-    git clone https://github.com/你的用戶名/你的倉庫名.git
+    git clone https://github.com/fishbaby1011/BetterLinuxMomonitor
     cd 你的倉庫名
     ```
 
